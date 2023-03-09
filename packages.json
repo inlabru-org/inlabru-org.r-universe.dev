@@ -10,5 +10,9 @@
     {
         "package": "excursions",
         "url": "https://github.com/davidbolin/excursions"
+    },
+    {
+        "package": "INLAspacetime",
+        "url": "https://github.com/eliaskrainski/INLAspacetime"
     }
 ]
