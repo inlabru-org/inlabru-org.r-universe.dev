@@ -4,6 +4,10 @@
         "url": "https://github.com/inlabru-org/inlabru"
     },
     {
+        "package": "fmesher",
+        "url": "https://github.com/inlabru-org/fmesher"
+    },
+    {
         "package": "dirinla",
         "url": "https://github.com/inlabru-org/dirinla"
     },
